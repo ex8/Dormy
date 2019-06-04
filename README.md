@@ -1,25 +1,23 @@
-Express app
+# About
+Dormy is a home rental services app, created by Team 01 of CSC 648 - Software Engineering course.
 
-Clone it and do `cd dormy`
+# Technologies Used
+- Node
+- Express
+- PostgreSQL
+- PM2
+- Nunjucks
+- Bootstrap Material Design
+- Passport.js
+- AWS EC2
+- AWS RDBMS
 
-Then install the dependencies with `npm install`
+# Images
+Homepage
+[![Homepage](https://i.imgur.com/9S91ZQ4.png "Homepage")](https://i.imgur.com/9S91ZQ4.png "Homepage")
 
-Run development server (must be in dormy folder): `npm run dev`
+Search
+[![Search](https://i.imgur.com/TeUrCNG.png "Search")](https://i.imgur.com/TeUrCNG.png "Search")
 
-Run production (no hot reload): `npm run start`
-
-Project structure and directories explanation:
-
-`Controllers` - directory that holds all the controllers between routes and views
-
-`Models` - directory that holds the models (User, Listing, etc)
-
-`public` - directory that holds all the stylesheets, javascript files, and images (ALL STATIC FILES HERE)
-
-`routes` - all URL definitions will be here
-
-`views` - all UI files will be here, FRONTEND mainly
-
-FRONTEND TEAM: I USED NUNJUCKS TEMPLATE ENGINE (https://mozilla.github.io/nunjucks/)
-
-It makes it easier to work with data in HTML
+Login
+[![Login](https://i.imgur.com/VJ1d5M1.png "Login")](https://i.imgur.com/VJ1d5M1.png "Login")
