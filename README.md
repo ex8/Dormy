@@ -1,5 +1,5 @@
 # About
-Dormy is a home rental services app, created by Team 01 of CSC 648 - Software Engineering course.
+Dormy is a home rental services app, created by Team 01 of CSC 648 - Software Engineering course. You can view a running instance of this on our AWS EC2 server: http://52.53.124.134/
 
 # Technologies Used
 - Node
